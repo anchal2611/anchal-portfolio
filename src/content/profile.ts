@@ -11,6 +11,6 @@ export const personalInfo: PersonalInfo = {
   email: "anchalguptadelhi12@gmail.com",
   github: "https://github.com/anchal2611",
   linkedin: "https://linkedin.com/in/anchalgupta26",
-  twitter: "https://twitter.com/anchalgupta",
+  twitter: "https://x.com/stackofbytes",
   resumeUrl: "resume.pdf",
 };
